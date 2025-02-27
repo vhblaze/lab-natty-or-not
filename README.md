@@ -4,10 +4,8 @@
 Este projeto explora o uso de Inteligência Artificial para criar conteúdos de maneira natural e autêntica. A ideia é utilizar diferentes modelos generativos para desenvolver imagens, textos e outras mídias que pareçam feitas por humanos.
 
 ## 🤖 Tecnologias Utilizadas
-- ChatGPT (para geração de texto e código)
-- DALL·E (para criação de imagens)
-- Midjourney (para arte digital)
-- Stable Diffusion (para ajustes finos em imagens)
+- [ChatGPT](chatgpt.com) (para geração de texto e código)
+- [leonardo.ai](https://app.leonardo.ai) (Geração de imagens)
 
 ## 🧐 Processo de Criação
 1. Planejei o conceito do projeto e defini quais IAs utilizaria.
